@@ -1,4 +1,5 @@
-description of the variables used in run_analysis.R
+Description of the variables used in run_analysis.R
+_____________________________________________________
 
 activity_labels: data read from activity activity_lables.txt file
 
